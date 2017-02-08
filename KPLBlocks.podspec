@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'KPLBlocks'
-s.version      = '1.0.2'
+s.version      = '1.0.3'
 s.summary      = '使用block替代监听点击'
 s.homepage     = 'https://github.com/MrXiaoYang/KPLBlocks'
 s.license      = 'MIT'
