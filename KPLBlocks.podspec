@@ -7,6 +7,6 @@ s.license      = 'MIT'
 s.authors      = {'MrXiaoYang' => '582385082@qq.com'}
 s.platform     = :ios, '6.0'
 s.source       = {:git => 'https://github.com/MrXiaoYang/KPLBlocks.git', :tag => s.version}
-s.source_files = 'KPLBlocks/**/*}'
+s.source_files = 'KPLBlocks/**/*'
 s.requires_arc = true
 end
